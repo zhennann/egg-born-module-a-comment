@@ -4,7 +4,8 @@
   "title": "Comment",
   "eggBornModule": {
     "dependencies": {
-      "a-instance": "1.0.0"
+      "a-instance": "1.0.0",
+      "a-base": "1.0.0"
     }
   },
   "description": "",
